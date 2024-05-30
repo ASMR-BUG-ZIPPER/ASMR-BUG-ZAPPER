@@ -1,7 +1,7 @@
 # ASMR-BUG-ZAPPER
 # Personal Portfolio Designs
 
-Collection of <a href="https:/youtube.com/@ASMRBugZapper" target="_blank">ASMR BUG ZAPPER</a> Youtube Channel Dashboard Personal Portfolio Design Codes!
+Collection of <a href="https://youtube.com/@ASMRBugZapper" target="_blank">ASMR BUG ZAPPER</a> Youtube Channel Dashboard Personal Portfolio Design Codes!
 
 ### Tutorial Video's
 
